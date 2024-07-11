@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+ps4:
+  title: ps4
+  description: ps4 perfeccta
+  price: 150
+
+sega:
+  title: Sega Genesis
+  description: anda pero se calienta el tranformador
+  price: 120
